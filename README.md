@@ -2,8 +2,7 @@
 
 This project focuses on building a complete Netflix Analytics Dashboard from scratch using Excel, designed to simulate a real-world data analytics workflow.
 
-👉 Watch the full step-by-step implementation on YouTube:
-🔗 [https://youtu.be/yVjOOR_lYJc]
+👉 Watch the full step-by-step implementation on YouTube: [https://youtu.be/yVjOOR_lYJc]
 
 🚀 Project Objective
 
